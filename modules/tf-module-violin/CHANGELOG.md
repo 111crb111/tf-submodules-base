@@ -8,6 +8,8 @@ All notable changes to this project will be documented in this file.
 
 * Update IAM policy for AWS Gateway API Controller to v2.0.0 ([#634](https://github.com/terraform-aws-modules/terraform-aws-iam/issues/634)) ([0f4c1c7](https://github.com/terraform-aws-modules/terraform-aws-iam/commit/0f4c1c74b3bf40031d51d930600000cb976359e0))
 
+---
+
 ## [6.3.0](https://github.com/terraform-aws-modules/terraform-aws-iam/compare/v6.2.3...v6.3.0) (2026-01-08)
 
 ### Features
