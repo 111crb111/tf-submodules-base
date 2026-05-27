@@ -9,4 +9,4 @@
 
 ### Difference with previous version
 added `CHANGELOG.md`
-You can find it [Here](tofu-module-tests/unit_tests/tf-module-violin/CHANGELOG.md)
+You can find it [Here](/CHANGELOG.md)
