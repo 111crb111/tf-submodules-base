@@ -9,4 +9,4 @@
 
 ### Difference with previous version
 added `CHANGELOG.md`
-You can find it [Here](/CHANGELOG.md)
+You can find it [Here](/changelog.md)
